@@ -1,4 +1,4 @@
-# # Spring Boot with Swagger
+# Spring Boot with Swagger
 
 ### What is Swagger?
 Swagger allows you to describe the structure of your APIs so that machines can read them.
